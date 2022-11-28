@@ -1,4 +1,4 @@
-# Methoden der Ökonometrie 22/23
+# Methoden der Ökonometrie WS22/23
 
 Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs Methoden der Ökonometrie kurzfristig über diese Website bereit. Bitte beachten Sie, dass sämtlich Emaildienste ebenfalls betroffen sind.
 
