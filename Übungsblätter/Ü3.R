@@ -114,6 +114,9 @@ MOD3<-lm(wage ~ education + experience + ethnicity, data = CPS1988)
 #e)
  
  lm(wage ~ education:ethnicity + experience + ethnicity, data = CPS1988)
+<<<<<<< HEAD
 
  
+=======
+>>>>>>> 9d186a525a83b0b50a50cf2a5083a8e44453da24
  
