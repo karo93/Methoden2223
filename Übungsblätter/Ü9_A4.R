@@ -17,6 +17,12 @@ summary(model1)$adj.r.squared
 summary(model2)$adj.r.squared
 summary(model3)$adj.r.squared
 
+
+
+plot(model1$residuals ~ model1$fitted.values)
+plot(model2$residuals ~ model2$fitted.values)
+plot(model3$residuals ~ model3$fitted.values)
+
 #ausgehend vom adj. R^2 würde man das erste modell präferieren
 
 #d)
